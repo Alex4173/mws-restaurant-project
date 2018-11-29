@@ -1,0 +1,7 @@
+@media screen and (min-width: 600px) {
+	nav, h1, a{
+		display: flex;
+    background-color: green;
+	}
+
+}
